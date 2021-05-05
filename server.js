@@ -20,7 +20,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/fitness-tracker
   }
 );
 
-app.use(require("./routes/userRoutes"));
+// app.use(require("./routes/userRoutes"));
 app.use(require("./routes/apiRoutes"));
 
 app.listen(PORT, () => {
