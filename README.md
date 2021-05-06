@@ -35,7 +35,7 @@ Also to include the programs used:
 
 ## License
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)(https://vast-meadow-49586.herokuapp.com/)]
+[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)](https://vast-meadow-49586.herokuapp.com/)
 ## Support
 Please contact me via below if you have questions. Thank you!
 
