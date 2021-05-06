@@ -196,7 +196,7 @@ function duration(data) {
   });
 
   return durations;
-}
+};
 
 function calculateTotalWeight(data) {
   let total = [];
@@ -208,7 +208,7 @@ function calculateTotalWeight(data) {
   });
 
   return total;
-}
+};
 
 function workoutNames(data) {
   let workouts = [];
@@ -220,4 +220,4 @@ function workoutNames(data) {
   });
   
   return workouts;
-}
+};
