@@ -12,7 +12,7 @@
 This is an easy application to log your workout routines on a daily basis. With the Fitness Tracker application, you are able to create workouts, edit existing workouts, and keep track of what's completed. This handy tool utilizes MongoDB, Mongoose, JavaScript, and IndexDB to allow for the data to persist.
 
 ## Usage
-![Gif](assets\fitnesstracker.gif)
+![Gif](https://github.com/VHarris113/fitness-tracker/blob/main/assets/fitnesstracker.gif?raw=true)
 
 ## Installation
 
